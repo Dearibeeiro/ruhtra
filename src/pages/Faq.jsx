@@ -84,7 +84,7 @@ export default function Faq() {
         </p>
 
         <a
-          href="https://wa.me/5575992277190?text=Olá!%20Ainda%20estou%20com%20dúvidas%20sobre%20a%20compra%20de%20seguidores."
+          href="https://wa.me/5575999267636?text=Olá!%20Ainda%20estou%20com%20dúvidas%20sobre%20a%20compra%20de%20seguidores."
           target="_blank"
           rel="noopener noreferrer"
         >

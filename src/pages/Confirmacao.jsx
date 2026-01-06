@@ -40,7 +40,7 @@ export default function Confirmacao() {
         
 
         <a
-          href={`https://wa.me/5575992277190?text=Olá! Já fiz o pagamento via PIX.%0A%0A
+          href={`https://wa.me/5575999267636?text=Olá! Já fiz o pagamento via PIX.%0A%0A
 Pacote: ${pacote?.qtd} seguidores%0A
 Tipo: ${tipo}%0A
 Plataforma: ${plataforma}%0A
